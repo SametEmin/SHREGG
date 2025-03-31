@@ -3,6 +3,7 @@
 
 ## Overview
 [![Youtube Video](1.png)](https://youtu.be/Um9liyoZuqY)
+**CLICK THE IMAGE FOR GAMEPLAY VIDEO**
 
 **SHREGG** is an action-packed top-down game inspired by the *Shrek* fairytale. Players will embark on an epic journey with Shrek, defending his home from waves of enemies and ultimately fighting to rescue Princess Fiona at the request of the Dwarf Lord. The game features completely original artwork, animations, and music, created by our team for the Game Jam event.
 
